@@ -1,0 +1,22 @@
+{
+    "success": {
+        "name": "Ler um livro de Playwright",
+        "is_done": false
+    },
+    "duplicate": {
+        "name": "Estudar Playwright",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name": "Pagar MEI",
+        "is_done": false
+    },
+    "delete": {
+        "name": "Fazer compras no mercado",
+        "is_done": false
+    }
+}
